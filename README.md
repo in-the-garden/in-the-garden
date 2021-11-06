@@ -3,11 +3,17 @@
  - Я начинающий фронтенд-разработчик  
  - Осталось написать дипломный проект и закончу обучение в Яндекс.Практикуме🤓  
  - Хочу научиться писать красивый код и работать с настоящими проектами  
- - Начала изучать TypeScript  
+ - Начала изучать TypeScript и Next, так как участвую в разработке [приложения для фестиваля драмматургии Любимовка](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend).
 
  #### Мой стэк:  
- <img src="./assets/652581_code_command_develop_javascript_language_icon.png"><img src="./assets/294678_html5_icon.png"><img src="./assets/294692_css3_icon.png"><img src="./assets/7423887_react_react native_icon (1).png"><img src="./assets/3069651_circle_js_node_node js_programming_icon.png"><img src="./assets/1012822_code_development_logo_mongodb_programming_icon.png">  
-
+ - HTML5
+ - CSS
+ - JS
+ - React
+ - Node.js
+ - express
+ - MongoDB  
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-the-garden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
