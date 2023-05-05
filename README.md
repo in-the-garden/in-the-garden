@@ -1,18 +1,9 @@
-### Привет, меня зовут Ирина 👋  
 
- - Я начинающий фронтенд-разработчик  
- - Осталось написать дипломный проект и закончу обучение в Яндекс.Практикуме🤓  
- - Хочу научиться писать красивый код и работать с настоящими проектами  
- - Начала изучать TypeScript и Next, так как участвую в разработке [приложения для фестиваля драмматургии Любимовка](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend).
+I'm Irina, a Frontend Developer with a passion for creating stunning, user-friendly websites. I completed Yandex.Praktikum two years ago and had the privilege of contributing to the development of the website for the renowned Lubimovka drama festival (https://lubimovka.art) during my studies.
 
- #### Мой стэк:  
- - HTML5
- - CSS
- - JS
- - React
- - Node.js
- - express
- - MongoDB  
+My skill set includes TypeScript, JavaScript, RxJS, HTML5, CSS (SCSS, Saas), Angular, React, Next.js, Express, Node.js, and MongoDB. I am well-versed in SOLID principles, design patterns, and data structures, ensuring that my code is robust, efficient, and easily maintainable.
+
+If you're looking to build a modern website, develop an interactive web application, or enhance the functionality of an existing platform, I can help bring your vision to life. I am passionate about innovation and committed to delivering high-quality results, making me the perfect choice for your next project.
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-the-garden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
